@@ -1,0 +1,143 @@
+TITLE: Vaccines against candidiasis: Status, challenges and emerging opportunity.
+
+AUTHORS: Sahu SR, Bose S, Singh M, Kumari P, Dutta A, Utkalaja BG, Patel SK, Acharya N
+
+YEAR: 2022
+
+JOURNAL: Frontiers in cellular and infection microbiology
+
+PMID: 36061876
+
+DOI: 10.3389/fcimb.2022.1002406
+
+TOPICS: Candida vaccines review
+
+ABSTRACT:
+Candidiasis is a mycosis caused by opportunistic Candida species. The occurrence of fungal infections has considerably increased in the last few years primarily due to an increase in the number of immune-suppressed individuals. Alarming bloodstream infections due to Candida sp. are associated with a higher rate of morbidity and mortality, and are emerged as major healthcare concerns worldwide. Currently, chemotherapy is the sole available option for combating fungal diseases. Moreover, the emergence of resistance to these limited available anti-fungal drugs has further accentuated the concern and highlighted the need for early detection of fungal infections, identification of novel antifungal drug targets, and development of effective therapeutics and prophylactics. Thus, there is an increasing interest in developing safe and potent immune-based therapeutics to tackle fungal diseases. In this context, vaccine design and its development have a priority. Nonetheless, despite significant advances in immune and vaccine biology over time, a viable commercialized vaccine remains awaited against fungal infections. In this minireview, we enumerate various concerted efforts made till date towards the development of anti-Candida vaccines, an option with pan-fugal vaccine, vaccines in the clinical trial, challenges, and future opportunities.
+
+
+TITLE: Advancing Vaccine Strategies against Candida Infections: Exploring New Frontiers.
+
+AUTHORS: Kaur G, Chawla S, Kumar P, Singh R
+
+YEAR: 2023
+
+JOURNAL: Vaccines
+
+PMID: 38005990
+
+DOI: 10.3390/vaccines11111658
+
+TOPICS: Candida vaccines review
+
+ABSTRACT:
+Candida albicans, along with several non-albicans Candida species, comprise a prominent fungal pathogen in humans, leading to candidiasis in various organs. The global impact of candidiasis in terms of disease burden, suffering, and fatalities is alarmingly high, making it a pressing global healthcare concern. Current treatment options rely on antifungal drugs such as azoles, polyenes, and echinocandins but are delimited due to the emergence of drug-resistant strains and associated adverse effects. The current review highlights the striking absence of a licensed antifungal vaccine for human use and the urgent need to shift our focus toward developing an anti-Candida vaccine. A number of factors affect the development of vaccines against fungal infections, including the host, intraspecies and interspecies antigenic variations, and hence, a lack of commercial interest. In addition, individuals with a high risk of fungal infection tend to be immunocompromised, so they are less likely to respond to inactivated or subunit whole organisms. Therefore, it is pertinent to discover newer and novel alternative strategies to develop safe and effective vaccines against fungal infections. This review article provides an overview of current vaccination strategies (live attenuated, whole-cell killed, subunit, conjugate, and oral vaccine), including their preclinical and clinical data on efficacy and safety. We also discuss the mechanisms of immune protection against candidiasis, including the role of innate and adaptive immunity and potential biomarkers of protection. Challenges, solutions, and future directions in vaccine development, namely, exploring novel adjuvants, harnessing the trained immunity, and utilizing immunoinformatics approaches for vaccine design and development, are also discussed. This review concludes with a summary of key findings, their implications for clinical practice and public health, and a call to action for continued investment in candidiasis vaccine research.
+
+
+TITLE: The NDV-3A vaccine protects mice from multidrug resistant Candida auris infection.
+
+AUTHORS: Singh S, Uppuluri P, Mamouei Z, Alqarihi A, Elhassan H, French S, Lockhart SR, Chiller T, Edwards JE, Ibrahim AS
+
+YEAR: 2019
+
+JOURNAL: PLoS pathogens
+
+PMID: 31381597
+
+DOI: 10.1371/journal.ppat.1007460
+
+TOPICS: Candida auris; Als3; NDV-3A
+
+ABSTRACT:
+Candida auris is an emerging, multi-drug resistant, health care-associated fungal pathogen. Its predominant prevalence in hospitals and nursing homes indicates its ability to adhere to and colonize the skin, or persist in an environment outside the host-a trait unique from other Candida species. Besides being associated globally with life-threatening disseminated infections, C. auris also poses significant clinical challenges due to its ability to adhere to polymeric surfaces and form highly drug-resistant biofilms. Here, we performed bioinformatic studies to identify the presence of adhesin proteins in C. auris, with sequence as well as 3-D structural homologies to the major adhesin/invasin of C. albicans, Als3. Anti-Als3p antibodies generated by vaccinating mice with NDV-3A (a vaccine based on the N-terminus of Als3 protein formulated with alum) recognized C. auris in vitro, blocked its ability to form biofilms and enhanced macrophage-mediated killing of the fungus. Furthermore, NDV-3A vaccination induced significant levels of C. auris cross-reactive humoral and cellular immune responses, and protected immunosuppressed mice from lethal C. auris disseminated infection, compared to the control alum-vaccinated mice. The mechanism of protection is attributed to anti-Als3p antibodies and CD4+ T helper cells activating tissue macrophages. Finally, NDV-3A potentiated the protective efficacy of the antifungal drug micafungin, against C. auris candidemia. Identification of Als3-like adhesins in C. auris makes it a target for immunotherapeutic strategies using NDV-3A, a vaccine with known efficacy against other Candida species and safety as well as efficacy in clinical trials. Considering that C. auris can be resistant to almost all classes of antifungal drugs, such an approach has profound clinical relevance.
+
+
+TITLE: In-silico design of a multivalent epitope-based vaccine against Candida auris.
+
+AUTHORS: Akhtar N, Joshi A, Kaushik V, Kumar M, Mannan MA
+
+YEAR: 2021
+
+JOURNAL: Microbial pathogenesis
+
+PMID: 33848597
+
+DOI: 10.1016/j.micpath.2021.104879
+
+TOPICS: Candida auris; reverse vaccinology; epitopes
+
+ABSTRACT:
+Candida auris is a rapidly emerging human pathogenic fungus with a high mortality rate. Recent report suggests that the new clinical isolates are showing resistance to the major classes of antifungal drugs. Due to the emergence of drug resistance, it becomes imperative to seek novel therapies for the treatment of C. auris. The potent vaccine could be one of the promising strategies for recalcitrant and multidrug-resistant pathogens. Using in silico approach we designed a novel multivalent vaccine against C. auris. We have selected the agglutinin-like sequence-3 (Als3) an adhesion protein, involved in virulence. The Als3p protein of C. auris was targeted to predict T cell and B cell epitopes. Epitopes which were found to be non-toxic, non-allergenic, highly conserved, and antigenic and could induce interferon-γ synthesis were selected for vaccine design. The selected epitopes were linked with suitable adjuvants to construct the final vaccine. The vaccine construct was predicted to be stable, soluble, antigenic, non-allergic with desirable physicochemical properties. We also constructed the 3D model of the vaccine and validated it with the Ramachandran plot. The ability of the vaccine construct to interact with Toll-like receptor (TLR) and major histocompatibility complex (MHC) was determined by molecular docking experiments. The binding energy of the vaccine construct with the TLR and MHC were found to be stable as predicted by molecular dynamics simulation. Further, in-silico cloning analysis showed that the vaccine construct can be successfully cloned and expressed in E. coli. Based on the results, we surmise that our candidate vaccine can be used as an alternative therapy for the treatment of C. auris. However, the efficacy and the safety of the vaccine model need to be determined by performing in vivo studies.
+
+
+TITLE: Genome-wide scan for potential CD4+ T-cell vaccine candidates in Candida auris by exploiting reverse vaccinology and evolutionary information.
+
+AUTHORS: Gupta SK, Osmanoglu Ö, Minocha R, Bandi SR, Bencurova E, Srivastava M, Dandekar T
+
+YEAR: 2022
+
+JOURNAL: Frontiers in medicine
+
+PMID: 36405591
+
+DOI: 10.3389/fmed.2022.1008527
+
+TOPICS: Candida auris; reverse vaccinology; CD4 T-cell epitopes
+
+ABSTRACT:
+Candida auris is a globally emerging fungal pathogen responsible for causing nosocomial outbreaks in healthcare associated settings. It is known to cause infection in all age groups and exhibits multi-drug resistance with high potential for horizontal transmission. Because of this reason combined with limited therapeutic choices available, C. auris infection has been acknowledged as a potential risk for causing a future pandemic, and thus seeking a promising strategy for its treatment is imperative. Here, we combined evolutionary information with reverse vaccinology approach to identify novel epitopes for vaccine design that could elicit CD4+ T-cell responses against C. auris. To this end, we extensively scanned the family of proteins encoded by C. auris genome. In addition, a pathogen may acquire substitutions in epitopes over a period of time which could cause its escape from the immune response thus rendering the vaccine ineffective. To lower this possibility in our design, we eliminated all rapidly evolving genes of C. auris with positive selection. We further employed highly conserved regions of multiple C. auris strains and identified two immunogenic and antigenic T-cell epitopes that could generate the most effective immune response against C. auris. The antigenicity scores of our predicted vaccine candidates were calculated as 0.85 and 1.88 where 0.5 is the threshold for prediction of fungal antigenic sequences. Based on our results, we conclude that our vaccine candidates have the potential to be successfully employed for the treatment of C. auris infection. However, in vivo experiments are imperative to further demonstrate the efficacy of our design.
+
+
+TITLE: Dual-antigen fusion protein vaccination induces protective immunity against Candida albicans infection in mice.
+
+AUTHORS: Jia K, Zhang Y, Jiang M, Cui M, Wang J, Zhang J, Wang H, Zhao H, Li M, Zou Q, Zeng H
+
+YEAR: 2024
+
+JOURNAL: Human vaccines & immunotherapeutics
+
+PMID: 39327639
+
+DOI: 10.1080/21645515.2024.2406065
+
+TOPICS: Candida albicans; Als3; Hyr1
+
+ABSTRACT:
+Candida albicans Is a leading cause of nosocomial bloodstream infections, particularly in immunocompromised patients. Current therapeutic strategies are insufficient, highlighting the need for effective vaccines. This study aimed to evaluate the efficacy of a dual-antigen fusion protein vaccine (AH) targeting the Als3 and Hyr1 proteins of C. albicans, using AlPO4 as an adjuvant. The AH vaccine was constructed by fusing Als317-432 and Hyr125-350 proteins, and its immunogenicity was tested in BALB/c mice and New Zealand white rabbits. Mice received three intramuscular doses of the vaccine combined with AlPO4, followed by a lethal challenge with C. albicans SC5314. Survival rates, antibody responses, cytokine production, fungal burdens, and organ pathology were assessed. The vaccine's efficacy was also validated using rabbit serum. Mice vaccinated with the AH-AlPO4 combination exhibited significantly higher antibody titers, particularly IgG and its subclasses, compared to controls (p < .001). The survival rate of vaccinated mice was 80% post-infection, significantly higher than the control group (p < .01). Vaccinated mice showed reduced fungal loads in the blood, kidneys, spleen, and liver (p < .05). Increased levels of interferon gamma and interleukin (IL)-17A were observed, indicating robust T helper (Th) 1 and Th17 cell responses. Vaccination mitigated organ damage, with kidney and liver pathology scores significantly lower than those of unvaccinated mice (p < .05). Rabbit serum with polyclonal antibodies demonstrated effective antifungal activity, confirming vaccine efficacy across species. The AH-AlPO4 vaccine effectively induced strong immune responses, reduced fungal burden, and protected against organ pathology in C. albicans infections. These findings support further development of dual-antigen vaccine strategies.
+Candida, a fungus, is a major cause of bloodstream infections, especially in critical care settings. This study focused on developing a vaccine to protect against Candida infection. The vaccine targeted two key proteins, Als3p and Hyr1p, found on the surface of Candida, using a combination of these proteins. To create the vaccine, we used Als3p and Hyr1p to form a fusion protein called AH, and tested the vaccine on mice, administering it with different adjuvants (substances that enhance the immune response). The results showed that the AH vaccine, particularly when combined with the adjuvant AlPO4, induced a strong immune response in mice. This response included the production of specific antibodies and immune cells that are crucial for defending against Candida infections. Furthermore, mice receiving the AH-AlPO4 vaccine showed significantly better survival rates and lower levels of fungal infection compared to the control group or another experimental group. The vaccine also protected vital organs, such as the kidneys and liver, from Candida-induced damage. Additionally, we used rabbit serum to validate the efficacy of the vaccine, providing cross-species confirmation of its effectiveness. The study demonstrated the potential of the AH vaccine in eliciting robust immune responses and reducing the severity of Candida albicans infections. In summary, this research introduces a promising AH vaccine, which shows effectiveness in protecting against Candida infections. The study’s innovative approach and positive results contribute to the ongoing efforts to develop vaccines against fungal infections, addressing a critical healthcare challenge. Further research is needed to explore the vaccine’s long-term effectiveness and safety for potential use in clinical settings.
+
+
+TITLE: A novel Candida albicans Als3, Hwp1 and Met6 derived complex peptide protects mice against hematogenously induced candidiasis.
+
+AUTHORS: Diez A, Arrieta-Aguirre I, Carrano G, Fernandez-de-Larrinoa I, Moragues MD
+
+YEAR: 2024
+
+JOURNAL: Vaccine
+
+PMID: 38789371
+
+DOI: 10.1016/j.vaccine.2024.05.038
+
+TOPICS: Candida albicans; Als3; Hwp1; Met6; epitopes
+
+ABSTRACT:
+Candida albicans can cause superficial or systemic infections in humans, particularly in immunocompromised individuals. Vaccination strategies targeting specific antigens of C. albicans have shown promise in providing protection against invasive candidiasis. This study aimed to evaluate the immuno-protective capacity of a KLH conjugated complex peptide, 3P-KLH, containing epitopes from C. albicans antigens Als3, Hwp1, and Met6 in a murine model of hematogenously induced candidiasis. Mice immunized with 3P-KLH raised a specific antibody response, and protection against C. albicans infection was assessed. Immunized mice exhibited significantly lower fungal load in their kidneys compared to the control group. Moreover, 37.5 % of immunized mice survived 21 days after the infection, while all control animals died within the first nine days. These findings suggest that the 3P-KLH complex peptide, targeting C. albicans key antigens, elicits a protective immune response and reduces the severity of systemic Candida infection. In addition, the high binding affinity of the selected epitopes with MHC II alleles further supports the potential immunogenicity of this peptide in humans. This research provides insights into the development of novel immunotherapeutic approaches against invasive candidiasis.
+
+
+TITLE: Next-generation Candida albicans vaccine VXV-01 containing recombinant Als3p and Hyr1p antigens for invasive Candida infections.
+
+AUTHORS: Singh S, Youssef EG, Barbarino A, Hautau H, Nabeela S, Gebremariam T, Alkhazraji S, Ostroff G, Christensen D, Cochrane T, Ibrahim AS
+
+YEAR: 2025
+
+JOURNAL: Scientific reports
+
+PMID: 41398441
+
+DOI: 10.1038/s41598-025-32488-8
+
+TOPICS: Candida albicans; Candida auris; Als3; Hyr1; VXV-01
+
+ABSTRACT:
+Candida species, including Candida albicans and Candida auris, represent a growing public health concern due to their increasing prevalence and resistance to antifungal agents. C. albicans is known for causing both superficial and invasive infections, while C. auris is a newly emerged, multidrug-resistant pathogen responsible for severe hospital outbreaks with a high mortality rate of ~ 60% in bloodstream infections. Vaccine candidates targeting C. albicans hyphal cell wall proteins Als3p and Hyr1p have shown protective efficacy in mice. NDV-3A, an alum-formulated Als3p-based vaccine, protected against recurrent vulvovaginal candidiasis in women. We earlier showed that both Als3p and Hyr1p have orthologs in C. auris, and that the NDV-3A vaccine, alongside an anti-Hyr1p monoclonal antibody, protected mice from multidrug resistant C. auris candidemia. Here, we optimized VXV-01, an Als3p and Hyr1p dual antigen vaccine formulated with the clinical-stage adjuvant CAF01, demonstrating robust immunity and CD4 T cell-dependent protection against lethal C. albicans and C. auris. The VXV-01 vaccine did not antagonize antifungal drug therapy and showed higher overall mouse survival than mice receiving the vaccine or antifungal drug alone, albeit this difference did not reach statistical significance. This study highlights the potential of VXV-01 in providing durable protective immunity against hematogenously disseminated C. albicans and C. auris and mucosal C. albicans infections.

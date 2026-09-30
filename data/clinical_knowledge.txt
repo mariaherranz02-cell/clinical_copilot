@@ -1,0 +1,44 @@
+DOCUMENT 1
+Title: Candidiasis overview
+
+Candidiasis is an infection caused by fungi of the genus Candida. Candida albicans is a common cause of mucosal and invasive candidiasis, but other species such as Candida glabrata, Candida tropicalis, Candida parapsilosis, Candida krusei, and Candida auris can also cause disease.
+
+Invasive candidiasis can occur when Candida enters the bloodstream or internal organs. Risk factors include prolonged hospitalization, intensive care, central venous catheters, recent surgery, broad-spectrum antibiotic exposure, and immunosuppression.
+
+Candida auris is of particular concern because some strains can show resistance to multiple antifungal drugs and because the organism can persist on surfaces and spread in healthcare environments.
+
+
+DOCUMENT 2
+Title: Candida auris diagnosis
+
+Candida auris can be difficult to identify using some conventional biochemical identification systems. Accurate species-level identification may require methods such as matrix-assisted laser desorption/ionization time-of-flight mass spectrometry or molecular methods.
+
+When Candida auris infection is suspected, appropriate laboratory identification is important because treatment and infection-control decisions may depend on the species and its antifungal susceptibility profile.
+
+
+DOCUMENT 3
+Title: Candida auris treatment
+
+Treatment of invasive Candida auris infections depends on the clinical situation and antifungal susceptibility.
+
+Echinocandins are commonly recommended as initial therapy for many adults with invasive Candida auris infection when susceptibility results are not yet available.
+
+Antifungal susceptibility testing can be important because resistance to antifungal agents has been reported in Candida auris. Treatment should be guided by clinical assessment, laboratory results, and applicable clinical guidelines.
+
+
+DOCUMENT 4
+Title: Candida infection risk factors
+
+Important risk factors for invasive candidiasis include recent abdominal surgery, central venous catheter use, prolonged intensive care, total parenteral nutrition, broad-spectrum antibiotic exposure, renal replacement therapy, and immunosuppression.
+
+The presence of risk factors does not by itself establish a diagnosis of invasive candidiasis. Clinical findings, microbiological testing, and the overall clinical context are required.
+
+
+DOCUMENT 5
+Title: Candida auris infection control
+
+Candida auris can spread in healthcare environments through contaminated surfaces and equipment and through contact between people.
+
+In healthcare settings, infection-control measures can include appropriate hand hygiene, cleaning and disinfection of the environment and reusable equipment, and precautions for patients colonized or infected with Candida auris according to local protocols.
+
+Because Candida auris can persist on surfaces, environmental cleaning is an important component of infection prevention.

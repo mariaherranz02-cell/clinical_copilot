@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What evidence exists for Als3 as a Candida vaccine antigen?",
+    "expected_topics": [
+      "Als3",
+      "vaccine",
+      "Candida"
+    ]
+  },
+  {
+    "question": "What evidence exists for Als3 against Candida auris?",
+    "expected_topics": [
+      "Als3",
+      "Candida auris"
+    ]
+  },
+  {
+    "question": "Which studies investigate reverse vaccinology or epitope-based vaccines against Candida auris?",
+    "expected_topics": [
+      "Candida auris",
+      "reverse vaccinology",
+      "epitope"
+    ]
+  },
+  {
+    "question": "What vaccine approaches target Hyr1?",
+    "expected_topics": [
+      "Hyr1",
+      "vaccine"
+    ]
+  },
+  {
+    "question": "What evidence exists for peptide-based Candida vaccines?",
+    "expected_topics": [
+      "peptide",
+      "vaccine",
+      "Candida"
+    ]
+  },
+  {
+    "question": "What are the main Candida vaccine strategies described in the literature?",
+    "expected_topics": [
+      "Candida",
+      "vaccine"
+    ]
+  }
+]
